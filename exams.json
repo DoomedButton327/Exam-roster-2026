@@ -29,31 +29,31 @@
   },
   {
     "id": "5",
-    "date": "2026-05-20",
+    "date": "2026-05-27",
     "day": "Wednesday",
     "session": 1,
     "subject": "English HL Paper 2",
     "code": "ENG",
+    "category": "language",
     "duration": "2h30",
-    "durationMins": 150,
+    "durationMins": 0,
     "startTime": "09:00",
     "endTime": "11:30",
-    "notes": "English Home Language — Literature paper.",
-    "category": "language"
+    "notes": "English Home Language — Literature paper."
   },
   {
     "id": "8",
-    "date": "2026-05-21",
+    "date": "2026-05-28",
     "day": "Thursday",
     "session": 1,
     "subject": "Afrikaans EAT Paper 2",
     "code": "AFR",
+    "category": "language",
     "duration": "2h30",
-    "durationMins": 150,
+    "durationMins": 0,
     "startTime": "09:00",
     "endTime": "11:30",
-    "notes": "Afrikaans EAT Vraestel 2 — Letterkunde.",
-    "category": "language"
+    "notes": "Afrikaans EAT Vraestel 2 — Letterkunde."
   },
   {
     "id": "9",
@@ -141,31 +141,31 @@
   },
   {
     "id": "18",
-    "date": "2026-05-27",
+    "date": "2026-05-20",
     "day": "Wednesday",
     "session": 1,
     "subject": "Tourism PAT",
     "code": "TOU",
+    "category": "tourism",
     "duration": "4h30",
-    "durationMins": 270,
+    "durationMins": 0,
     "startTime": "09:00",
     "endTime": "13:30",
-    "notes": "⚠️ SPECIAL TIMES: 09:00 – 13:30. Tourism PAT runs 4.5 hours — plan extra study accordingly!",
-    "category": "tourism"
+    "notes": "⚠️ SPECIAL TIMES: 09:00 – 13:30. Tourism PAT runs 4.5 hours — plan extra study accordingly!"
   },
   {
     "id": "19",
-    "date": "2026-05-28",
+    "date": "2026-05-21",
     "day": "Thursday",
     "session": 1,
     "subject": "Tourism PAT (Day 2)",
     "code": "TOU",
+    "category": "tourism",
     "duration": "4h30",
-    "durationMins": 270,
+    "durationMins": 0,
     "startTime": "09:00",
     "endTime": "13:30",
-    "notes": "⚠️ SPECIAL TIMES: 09:00 – 13:30. Tourism PAT continues — Day 2. Unique end time, not 12:00!",
-    "category": "tourism"
+    "notes": "⚠️ SPECIAL TIMES: 09:00 – 13:30. Tourism PAT continues — Day 2. Unique end time, not 12:00!"
   },
   {
     "id": "30",
